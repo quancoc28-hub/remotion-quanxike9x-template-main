@@ -1,0 +1,47 @@
+{
+  "topic": "PudweddingExplainer",
+  "voice": "vi-VN-HoaiMyNeural",
+  "rate": "+10%",
+  "totalScenes": 4,
+  "totalDurationFrames": 786,
+  "totalDurationSec": 26.2,
+  "scenes": [
+    {
+      "id": "scene1_hook",
+      "text": "Bạn vẫn đang đau đầu vì chi phí in thiệp cưới giấy đắt đỏ và gửi đi xa xôi?",
+      "audioPath": "audio/PudweddingExplainer/scene1_hook.mp3",
+      "filePath": "D:\\01.Quân\\03.Makeing video AI\\remotion-Quanxike9x-template-main\\public\\audio\\PudweddingExplainer\\scene1_hook.mp3",
+      "sizeBytes": 28656,
+      "estimatedDurationSec": 4.78,
+      "durationInFrames": 154
+    },
+    {
+      "id": "scene2_features",
+      "text": "Pudwedding mang đến giải pháp thiệp cưới online thông minh: tích hợp album ảnh cưới, nhạc nền lãng mạn và bản đồ chỉ đường chuẩn xác.",
+      "audioPath": "audio/PudweddingExplainer/scene2_features.mp3",
+      "filePath": "D:\\01.Quân\\03.Makeing video AI\\remotion-Quanxike9x-template-main\\public\\audio\\PudweddingExplainer\\scene2_features.mp3",
+      "sizeBytes": 41184,
+      "estimatedDurationSec": 6.86,
+      "durationInFrames": 216
+    },
+    {
+      "id": "scene3_benefits",
+      "text": "Gửi link nhận thiệp qua Zalo, Messenger chỉ trong 1 giây, tiết kiệm 80% chi phí và dễ dàng theo dõi xác nhận tham dự.",
+      "audioPath": "audio/PudweddingExplainer/scene3_benefits.mp3",
+      "filePath": "D:\\01.Quân\\03.Makeing video AI\\remotion-Quanxike9x-template-main\\public\\audio\\PudweddingExplainer\\scene3_benefits.mp3",
+      "sizeBytes": 41472,
+      "estimatedDurationSec": 6.91,
+      "durationInFrames": 218
+    },
+    {
+      "id": "scene4_outro",
+      "text": "Tạo ngay thiệp cưới online hiện đại cho ngày trọng đại tại Pudwedding. Chúc hai bạn trăm năm hạnh phúc!",
+      "audioPath": "audio/PudweddingExplainer/scene4_outro.mp3",
+      "filePath": "D:\\01.Quân\\03.Makeing video AI\\remotion-Quanxike9x-template-main\\public\\audio\\PudweddingExplainer\\scene4_outro.mp3",
+      "sizeBytes": 37440,
+      "estimatedDurationSec": 6.24,
+      "durationInFrames": 198
+    }
+  ],
+  "generatedAt": "2026-09-03T02:00:27.821Z"
+}
