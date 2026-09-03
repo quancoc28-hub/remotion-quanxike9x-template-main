@@ -66,8 +66,8 @@
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/quancoc28-hub/Remotion-videos.git
-cd Remotion-videos
+git clone https://github.com/quancoc28-hub/remotion-quanxike9x-template-main.git
+cd remotion-quanxike9x-template-main
 npm install
 ```
 

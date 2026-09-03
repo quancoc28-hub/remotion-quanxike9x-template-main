@@ -68,8 +68,8 @@ Video ngắn áp dụng mô hình tâm lý thu hút người xem gồm 6 phân c
 
 ### 1. Clone repository & Cài đặt thư viện
 ```bash
-git clone https://github.com/quancoc28-hub/Remotion-videos.git
-cd Remotion-videos
+git clone https://github.com/quancoc28-hub/remotion-quanxike9x-template-main.git
+cd remotion-quanxike9x-template-main
 npm install
 ```
 
